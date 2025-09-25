@@ -1,0 +1,14 @@
+C:\Desenvolvimentos\VSCode\Roadmap\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimentos\VSCode\Roadmap\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Desenvolvimentos\VSCode\Roadmap\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.AssemblyInfo.cs
+C:\Desenvolvimentos\VSCode\Roadmap\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Desenvolvimentos\VSCode\Roadmap\NumberGuessingGame\bin\Debug\net9.0\NumberGuessingGame.exe
+C:\Desenvolvimentos\VSCode\Roadmap\NumberGuessingGame\bin\Debug\net9.0\NumberGuessingGame.deps.json
+C:\Desenvolvimentos\VSCode\Roadmap\NumberGuessingGame\bin\Debug\net9.0\NumberGuessingGame.runtimeconfig.json
+C:\Desenvolvimentos\VSCode\Roadmap\NumberGuessingGame\bin\Debug\net9.0\NumberGuessingGame.dll
+C:\Desenvolvimentos\VSCode\Roadmap\NumberGuessingGame\bin\Debug\net9.0\NumberGuessingGame.pdb
+C:\Desenvolvimentos\VSCode\Roadmap\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.dll
+C:\Desenvolvimentos\VSCode\Roadmap\NumberGuessingGame\obj\Debug\net9.0\refint\NumberGuessingGame.dll
+C:\Desenvolvimentos\VSCode\Roadmap\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.pdb
+C:\Desenvolvimentos\VSCode\Roadmap\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.genruntimeconfig.cache
+C:\Desenvolvimentos\VSCode\Roadmap\NumberGuessingGame\obj\Debug\net9.0\ref\NumberGuessingGame.dll
